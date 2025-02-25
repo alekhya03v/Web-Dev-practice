@@ -6,3 +6,5 @@
 ![3.0 list ele](image-4.png)
 ![3.1 nesting](image-6.png)
 ![3.2 Anchor ele](image-7.png)
+![3.3 first image](image-8.png)
+![3.3 second image](image-9.png)

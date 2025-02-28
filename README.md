@@ -14,4 +14,3 @@
 ![4.2 boilerplate](image-14.png)
 ![4.3 portfolio](image-15.png)  
 
-CSS 5.1 website: https://automatic-succotash-pjgvqj556g7crwq7-3000.app.github.dev/chap-5/5.1.%20Adding%20CSS/

@@ -12,5 +12,4 @@
 ![4.0 file paths](image-12.png)
 ![4.1 webpages](image-13.png)
 ![4.2 boilerplate](image-14.png)
-Sample website:https://automatic-succotash-pjgvqj556g7crwq7-3000.app.github.dev/chap-4/4.2 boilerplate/index.html
 ![4.3 portfolio](image-15.png)

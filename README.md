@@ -12,5 +12,6 @@
 ![4.0 file paths](image-12.png)
 ![4.1 webpages](image-13.png)
 ![4.2 boilerplate](image-14.png)
-![4.3 portfolio](image-15.png)  
+![4.3 portfolio](image-15.png) 
+![5.3 CSS Selectors](image.png)
 

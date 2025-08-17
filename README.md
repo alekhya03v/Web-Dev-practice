@@ -17,5 +17,5 @@
 ![5.4 color+vocab+Project](image-17.png)
 ![6.0 CSS Colors](image-18.png)
 ![6.3 CSS Box Model](image-19.png)
-
+![6.4 Motivational Meme Project](image-20.png)
 
